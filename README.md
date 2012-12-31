@@ -16,7 +16,7 @@ None.
 Usage
 =====
 
-Add the recipe to your base role via:
+Add the recipe to a role via:
 
 ``
 "recipe[mlocate]"
