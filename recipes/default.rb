@@ -4,7 +4,7 @@
 #
 # Copyright 2012, PrometSource
 #
-# All rights reserved - Do Not Redistribute
+# Do what you wish with this
 #
 package "mlocate" do
   action :install
